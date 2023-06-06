@@ -27,10 +27,12 @@ uvicorn main:app --reload
 
 Once the App is running, you can use the file "input_file.csv" to get some rsult from the aplication. Easist way to do that is using the Interactive API Documentation  http://localhost:8000/docs in your browser. 
 
+Expand the /update_companies_asnyc/ or /update_companies/ route, and you will see a Try it out button. Click that button.
 
+![image](https://github.com/francisco-debierne/Basic_Linkedin_Api/assets/85453178/e41bf630-ada4-4d72-84af-c666972f0863)
 
-Give a CSV file of company names, create a python module that can find
-LinkedIn URLs for those companies. The LinkedIn URLs should be stored as a
-CSV file. And once that is done, extend the script using Playwright browser
-to find the employee count from LinkedIn and store it in the original file
-alongside the Company Names.
+Select a file then click the Execute button (the blue one)
+
+![image](https://github.com/francisco-debierne/Basic_Linkedin_Api/assets/85453178/690b7b6d-a801-4c9a-9c6b-dffbe751348a)
+
+Denpendens on Route you chosse, you will get diferent mensagem, but in the both process the final result will be storage on uploads folders. 
