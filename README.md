@@ -11,9 +11,9 @@ In order to running this correctly it is recomended that you use Python 3.10.5 a
 
 As a first step, install the requirements:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Give a CSV file of company names, create a python module that can find
 LinkedIn URLs for those companies. The LinkedIn URLs should be stored as a
