@@ -2,3 +2,5 @@ aiofiles==23.1.0
 fastapi==0.96.0
 pandas==2.0.1
 selenium==3.141.0
+pydantic
+uvicorn
