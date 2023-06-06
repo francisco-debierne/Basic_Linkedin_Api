@@ -9,6 +9,10 @@ In order to running this correctly it is recomended that you use Python 3.10.5 a
 
 ### Input File Format
 
+The input file should just have the name of the componies by ",", as in the figure bellow. 
+
+![image](https://github.com/francisco-debierne/Basic_Linkedin_Api/assets/85453178/07c97485-1dc4-4fa2-8c42-b67875ea99d3)
+
 
 ### Usage
 
@@ -17,6 +21,10 @@ As a first step, install the requirements:
 pip install -r requirements.txt
 ```
 User and Password
+
+Before you star the process, you need to add a USER and PASSWORD to the LinkedIn in the raw 23 and 24. 
+
+![image](https://github.com/francisco-debierne/Basic_Linkedin_Api/assets/85453178/bcea039d-9123-4239-8800-3c1d341dc659)
 
 This is how you run the code locally from your terminal:
 ```
