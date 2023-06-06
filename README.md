@@ -3,11 +3,17 @@ In this project we will create a python module that can be use to find the Linke
 
 To do that we will Selenium (https://www.selenium.dev/) and FastApi (https://fastapi.tiangolo.com/).
 
-### Prerequisites.
+### Prerequisites
 
 In order to running this correctly it is recomended that you use Python 3.10.5 and have the right Selemium Dirvers in the root folder. If you use Chorme, you can find they right driver in this page https://chromedriver.chromium.org/downloads 
 
-### Usages
+### Usage
+
+As a first step, install the requirements:
+
+'''
+pip install -r requirements.txt
+'''
 
 Give a CSV file of company names, create a python module that can find
 LinkedIn URLs for those companies. The LinkedIn URLs should be stored as a
