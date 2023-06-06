@@ -1,5 +1,5 @@
 # LinkedIn Api.
-In this project we will create a python module that can be use to find the LinkedIn URLs and the total of employee of a list of companies provide by CSV file unsing API. 
+In this project we will create a Python module that can be used to find the LinkedIn URLs and the total of employees of a list of companies provided by CSV file using API. 
 
 To do that we will Selenium (https://www.selenium.dev/) and FastApi (https://fastapi.tiangolo.com/).
 
