@@ -3,6 +3,10 @@ In this project we will create a Python module that can be used to find the Link
 
 To do that we will Selenium (https://www.selenium.dev/) and FastApi (https://fastapi.tiangolo.com/).
 
+### The Playwright Browser. 
+
+For the proposition of this project, we use Selenium as Playwright Browser to run the scraper.
+
 ### Prerequisites
 
 To run this correctly, you should use Python 3.10.5 and have the right Selenium Drivers in the root folder. If you use Chrome, you can find the right driver on this page https://chromedriver.chromium.org/downloads
